@@ -1,0 +1,79 @@
+/* Generated part */
+.ctverce {
+}
+
+.hiddenTextFields {
+}
+
+.box {
+    /*width: 1.923076923076923%;
+    height: 0.9615384615384615vw;*/
+    width: 2.5%;
+    height: 2.5vh;
+    border: 1px solid #a6a6a6;
+    margin: 0.35%;
+    float:left;
+}
+
+/* colour schemes */
+
+.map-marker-yah {
+    position: relative;
+    bottom: 60px;
+    /* left: -0.9615384615384615vw; */
+    left: -1.5vh;
+}
+
+.primarySchool {
+    background: yellowgreen;
+    border: yellowgreen;
+}
+.secondarySchool {
+    background: #cdb800;
+    border: #cdb800;
+}
+.university {
+    background: #cd7400;
+    border: #cd7400;
+}
+.militaryService {
+    background: darkgreen;
+    border: darkgreen;
+}
+.retirement {
+    background: #cd351f;
+    border: #cd351f;
+}
+.firstMarriageAge {
+    background: #ffabfb;
+    border: #ffabfb;
+}
+.firstChildAge {
+    background: #4bcd75;
+    border: #4bcd75;
+}
+.funFacts {
+    background: #cd00a3;
+    border: #cd00a3;
+}
+.youAreHere {
+    background: dodgerblue;
+    border: dodgerblue;
+}
+.lastDay {
+    background: black;
+    border: black;
+}
+.vaccination {
+    background: mediumvioletred;
+    border: mediumvioletred;
+}
+
+/* mobile adjustments */
+@media (max-width: 550px) {
+    .box {
+        width: 4%;
+        height: 4vh;
+        margin: 0.5%;
+    }
+}
